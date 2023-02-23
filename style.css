@@ -117,7 +117,7 @@ footer{
 .contact a:hover{
     color: rgb(4, 5, 7);
 }
-@media(max-width:786px)
+@media(max-width:976px)
 {
     .pallavi{
         min-height: 50vh;
